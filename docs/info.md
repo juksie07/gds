@@ -9,15 +9,21 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+AND, NAND and OR gates are connected to input a and b.
+
+X flip flops are used to divide the clock speed with 2 outputs, one at the 12th flop and one at the 16th.
 
 doesn't really
 
 ## How to test
 
-Explain how to use your project
+Set the inputs and check the outputs match with the expected results:
 
-no clue
+| input a and  b | output AND     | output NAND    | output OR     |
+|000000000000000||000000000000000||000000000000000||000000000000000|
+|000000000000000||000000000000000||000000000000000||000000000000000|
+|000000000000000||000000000000000||000000000000000||000000000000000|
+|000000000000000||000000000000000||000000000000000||000000000000000|
 
 ## External hardware
 
